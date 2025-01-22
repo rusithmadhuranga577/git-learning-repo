@@ -1,5 +1,1 @@
 Hello, this is the third file of this repo
-
-Hi
-Hello 
-Welcome
